@@ -7,7 +7,7 @@ Face Attendance System with IP Camera Integration
 A real-time face detection and attendance tracking system that uses IP camera feeds to automatically record and manage attendance with confidence-based verification.
 
 ## Key Features
-📷 Real-time Face Detection
+### 📷 Real-time Face Detection
 
   OpenCV-based face detection with confidence scoring
 
@@ -15,7 +15,7 @@ A real-time face detection and attendance tracking system that uses IP camera fe
 
   Visual bounding boxes and confidence indicators
 
-📊 Attendance Management
+### 📊 Attendance Management
 
   Automatic attendance recording with timestamps
 
@@ -25,7 +25,7 @@ A real-time face detection and attendance tracking system that uses IP camera fe
 
   Database persistence using SQLite
 
-🔄 Smart Saving
+### 🔄 Smart Saving
 
   Manual save button with confirmation
 
@@ -33,7 +33,7 @@ A real-time face detection and attendance tracking system that uses IP camera fe
 
   Visual feedback during save operations
 
-🌐 Web Interface
+### 🌐 Web Interface
 
   Live video feed with detection overlay
 
@@ -41,7 +41,7 @@ A real-time face detection and attendance tracking system that uses IP camera fe
 
   Responsive design for various devices
 
-Simple REST API for integration
+  Simple REST API for integration
 
 ## Technology Stack
   ✔ Backend: Python (Flask)
