@@ -45,15 +45,23 @@ A real-time face detection and attendance tracking system that uses IP camera fe
 
   Visual bounding boxes and confidence indicators
 
+### 🏠 UI Demo
+
+1. First look:
+
+<img src="0.png" width="600">
+
+2. 
+
 ### 📊 Attendance Management
 
-  Automatic attendance recording with timestamps
+  ✅ Automatic attendance recording with timestamps
 
-  Confidence-based status (Approved/Pending)
+  ✅ Confidence-based status (Approved/Pending)
 
-  Recent records display with highlighting
+  ✅ Recent records display with highlighting
 
-  Database persistence using SQLite
+  ✅ Database persistence using SQLite
 
 ### 🔄 Smart Saving
 
