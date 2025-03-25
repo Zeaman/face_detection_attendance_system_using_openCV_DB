@@ -10,18 +10,31 @@ A real-time face detection and attendance tracking system that uses IP camera fe
 ### Project Structure
 
 └── face-attendance-system/
+
     ├── app.py
+    
     ├── face_detection.py
+    
     ├── models/
+    
     │   ├── deploy.prototxt
+    
     │   └── res10_...caffemodel
+    
     ├── templates/
+    
     │   └── attendance_ui.html
+    
     ├── static/
+    
     │   ├── styles.css
+    
     │   └── script.js
+    
     ├── attendance.db
+    
     ├── requirements.txt
+    
     └── README.md
     
 ### 📷 Real-time Face Detection
