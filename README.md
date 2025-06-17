@@ -55,11 +55,11 @@ A real-time face detection and attendance tracking system that uses IP camera fe
 
 <img src="1.png" width="600">
 
-3. Face Detected and Registering to DB:
+3. Face Detection and Registering to DB:
 
 <img src="2.png" width="600">
 
-4. Face Detected and Registering to DB:
+4. Face Detection and Registering to DB:
 
 <img src="2.png" width="600">
 
